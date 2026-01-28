@@ -81,6 +81,8 @@ Once triggered, the system acts immediately to remove risk.
 
 ---
 
-## What This Proves
+## BLOG:
+
+I have written a blog explaining the deactivation of IAM Keys: https://dev.to/anil_kumar_noolu/aws-lambda-deactivate-inactive-iam-keys-26gh
 
 
